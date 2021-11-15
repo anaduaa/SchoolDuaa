@@ -7498,11 +7498,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\emada\\Desktop\\test\\test\\test.csproj",
+      "projectUniqueName": "C:\\Users\\emada\\Desktop\\asp.net\\website\\SchoolDuaa\\test\\test.csproj",
       "projectName": "test",
-      "projectPath": "C:\\Users\\emada\\Desktop\\test\\test\\test.csproj",
+      "projectPath": "C:\\Users\\emada\\Desktop\\asp.net\\website\\SchoolDuaa\\test\\test.csproj",
       "packagesPath": "C:\\Users\\emada\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\emada\\Desktop\\test\\test\\obj\\",
+      "outputPath": "C:\\Users\\emada\\Desktop\\asp.net\\website\\SchoolDuaa\\test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\emada\\AppData\\Roaming\\NuGet\\NuGet.Config",
